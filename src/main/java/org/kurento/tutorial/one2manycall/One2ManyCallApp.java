@@ -53,5 +53,4 @@ public class One2ManyCallApp implements WebSocketConfigurer {
   public static void main(String[] args) throws Exception {
     SpringApplication.run(One2ManyCallApp.class, args);
   }
-
 }
